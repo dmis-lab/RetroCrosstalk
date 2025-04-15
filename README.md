@@ -73,6 +73,19 @@ bzip2 -d eMolecules.txt.bz2
 tar -zcvf PaRoues.tar.gz
 ```
 
+### 7. Additional Files Setup Instructions
+To use this repository, you need to download and set up additional files. Please follow these instructions:
+
+Download the required files from the following Google Drive link:
+[Google Drive Download Link](https://drive.google.com/drive/folders/16iBf9VYIAbpFXND8KnXWfKbZ6M4NbSAS?usp=sharing)
+Save the downloaded files to the RetroCrosstalk folder.
+Unzip the downloaded file within the RetroCrosstalk folder:
+```bash
+cd RetroCrosstalk
+unzip downloaded_filename.zip
+```
+After extracting the files, you can proceed with the project.
+
 
 ## Usage
 Explain how to use your project with some examples.
@@ -94,8 +107,6 @@ python visualize_tree.py
 
 ## License
 MIT License – See the [LICENSE](LICENSE) file for details.
-
-## Contact
 
 ## Contact
 Junseok Choe - [juns94@korea.ac.kr](mailto:juns94@korea.ac.kr)
