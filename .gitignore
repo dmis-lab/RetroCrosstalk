@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+./saved_model/
+*__pycache__*
+./ss_models/
+./yield_pred_inference/

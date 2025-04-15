@@ -1,0 +1,14 @@
+numpy==1.26.1
+packaging
+pandas
+pillow
+tqdm
+scikit-learn
+omegaconf
+hydra-core
+dgllife
+pytorch_lightning==1.2.3
+torchvision==0.14.1
+torchaudio==0.13.1
+rdkit==2022.9.1
+rdchiral

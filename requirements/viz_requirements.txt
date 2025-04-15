@@ -1,0 +1,16 @@
+torch==2.3.0
+numpy
+pandas
+matplotlib
+rdkit
+pytorch-lightning==2.3.0
+torchmetrics
+pytest
+transformers==4.46.3
+datamol==0.12.5
+accelerate
+datasets==3.1.0
+evaluate==0.4.3
+huggingface-hub==0.26.2
+scikit-learn
+scipy

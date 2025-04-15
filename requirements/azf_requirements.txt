@@ -1,0 +1,10 @@
+torch==2.4.1
+torchvision==0.19.1
+torchaudio==2.4.1
+numpy
+pandas
+matplotlib
+rdkit==2022.9.5
+rdchiral==1.1.0
+aizynthfinder==4.3.1
+networkx==2.8.8
