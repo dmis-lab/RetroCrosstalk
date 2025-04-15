@@ -1,7 +1,6 @@
-# Project Name
+# Retrosynthetic Crosstalk between Single-step Reaction and Multi-step Planning
 
 ## Description
-### Retrosynthetic Crosstalk between Single-step Reaction and Multi-step Planning
 This project investigates the interplay between single-step retrosynthesis models and multi-step planning algorithms to enhance route generation in drug discovery. We evaluate various model-algorithm combinations across diverse datasets, measuring both route completion (solvability) and practical feasibility. Our results show that optimizing solely for solvability does not guarantee feasible synthetic routes, offering crucial insights into real-world computational retrosynthesis.
 
 
